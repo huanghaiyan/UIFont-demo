@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AllCaps.ttf</string>
+		<string>!Y2KBUG.ttf</string>
+		<string>01-01-00.ttf</string>
+		<string>04B_03__.ttf</string>
+		<string>04B_03B_.ttf</string>
+		<string>04B_08__.ttf</string>
+		<string>04B_09__.ttf</string>
+		<string>04B_11__.ttf</string>
+		<string>04B_19__.ttf</string>
+		<string>04B_20__.ttf</string>
+		<string>MEllan HK Xbold(粗雅蘭).ttf</string>
+		<string>MElle HKS Light(简幼雅丽).ttf</string>
+		<string>mheihk-bold(黑體).otf</string>
+		<string>mheihk-xbold(粗黑體).otf</string>
+		<string>mheihks-bold(简黑).otf</string>
+		<string>a.ttf</string>
+		<string>micross.ttf</string>
+		<string>minbari2.TTF</string>
+		<string>MiniLine.ttf</string>
+		<string>MiniSet.ttf</string>
+		<string>MINISYST.TTF</string>
+		<string>MINNIE.TTF</string>
+		<string>MINYA.TTF</string>
+		<string>MNKCHUNK.TTF</string>
+		<string>MYoungHei HK Xbold(俏黑體).ttf</string>
+		<string>myuenhk-light(幼圓體).otf</string>
+		<string>MYuenHK-SemiBold(園黑).otf</string>
+		<string>繁柳楷.ttf</string>
+		<string>繁欧行.ttf</string>
+		<string>繁褚楷.ttf</string>
+		<string>繁赵楷.ttf</string>
+		<string>繁陆行.ttf</string>
+		<string>華康圓緣體繁.ttf</string>
+		<string>陈继世-怪怪体.ttf</string>
+		<string>淘淘简体字体.TTF</string>
+		<string>繁唐隶.ttf</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
